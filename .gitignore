@@ -52,3 +52,5 @@ buck-out/
 # Expo
 .expo/
 web-build/
+
+android/app/src/main/java/com/mytsproject/generated
